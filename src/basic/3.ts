@@ -1,5 +1,5 @@
 let unionType: string | number;
 
-type IsEnable: 'enable' | 'disable';
+type IsEnable = "enable" | "disable";
 
 let isEnable: IsEnable;
